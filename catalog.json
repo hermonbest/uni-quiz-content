@@ -12,9 +12,96 @@
       "title": "History",
       "icon": "history",
       "order": 2
+    },
+    {
+      "id": "enterprenurship",
+      "title": "Enterprenurship",
+      "icon": "book",
+      "order": 3
+    },
+    {
+      "id": "emerging-tech",
+      "title": "Emerging Tech",
+      "icon": "book",
+      "order": 4
+    },
+    {
+      "id": "anthropology",
+      "title": "Anthropology",
+      "icon": "book",
+      "order": 5
+    },
+    {
+      "id": "global-trend",
+      "title": "Global Trend",
+      "icon": "book",
+      "order": 6
     }
   ],
   "chapters": [
+    {
+      "id": "history-chapter1",
+      "subjectId": "history",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter1.db",
+      "order": 1
+    },
+    {
+      "id": "history-chapter2",
+      "subjectId": "history",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 53248,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter2.db",
+      "order": 2
+    },
+    {
+      "id": "history-chapter3",
+      "subjectId": "history",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 53248,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter3.db",
+      "order": 3
+    },
+    {
+      "id": "history-chapter4",
+      "subjectId": "history",
+      "title": "Chapter 4",
+      "totalQuestions": 84,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter4.db",
+      "order": 4
+    },
+    {
+      "id": "history-chapter5",
+      "subjectId": "history",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter5.db",
+      "order": 5
+    },
+    {
+      "id": "history-chapter6",
+      "subjectId": "history",
+      "title": "Chapter 6",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter6.db",
+      "order": 6
+    },
+    {
+      "id": "history-chapter7",
+      "subjectId": "history",
+      "title": "Chapter 7",
+      "totalQuestions": 100,
+      "fileSizeBytes": 61440,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter7.db",
+      "order": 7
+    },
     {
       "id": "ir-ch-1",
       "subjectId": "international-relations",
@@ -31,24 +118,6 @@
       "totalQuestions": 50,
       "fileSizeBytes": 262144,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/ir-ch-2.db",
-      "order": 2
-    },
-    {
-      "id": "history-ch1",
-      "subjectId": "history",
-      "title": "Chapter 1: The Nature of History",
-      "totalQuestions": 100,
-      "fileSizeBytes": 26571,
-      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-ch1.db",
-      "order": 1
-    },
-    {
-      "id": "history-ch2",
-      "subjectId": "history",
-      "title": "Chapter 2: The Nature of History",
-      "totalQuestions": 100,
-      "fileSizeBytes": 21485,
-      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-ch2.db",
       "order": 2
     }
   ]
