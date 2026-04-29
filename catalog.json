@@ -6,6 +6,12 @@
       "description": "Study of global politics and international affairs",
       "icon": "globe",
       "order": 1
+    },
+    {
+      "id": "history",
+      "title": "History",
+      "icon": "history",
+      "order": 2
     }
   ],
   "chapters": [
@@ -26,26 +32,14 @@
       "fileSizeBytes": 262144,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/ir-ch-2.db",
       "order": 2
-    }
-  ]
-}
-{
-  "subjects": [
-    {
-      "id": "history",
-      "title": "History",
-      "icon": "history",
-      "order": 2
-    }
-  ],
-  "chapters": [
+    },
     {
       "id": "history-ch1",
       "subjectId": "history",
       "title": "Chapter 1: The Nature of History",
-      "totalQuestions": 89,
+      "totalQuestions": 100,
       "fileSizeBytes": 26571,
-      "downloadUrl": "ttps://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-ch1.db",
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-ch1.db",
       "order": 1
     }
   ]
