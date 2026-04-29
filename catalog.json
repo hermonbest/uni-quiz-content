@@ -1,0 +1,31 @@
+{
+  "subjects": [
+    {
+      "id": "international-relations",
+      "title": "International Relations",
+      "description": "Study of global politics and international affairs",
+      "icon": "globe",
+      "order": 1
+    }
+  ],
+  "chapters": [
+    {
+      "id": "ir-ch-1",
+      "subjectId": "international-relations",
+      "title": "Chapter 1: Introduction to IR",
+      "totalQuestions": 100,
+      "fileSizeBytes": 524288,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/ir-ch-1.db",
+      "order": 1
+    },
+    {
+      "id": "ir-ch-2",
+      "subjectId": "international-relations",
+      "title": "Chapter 2: National Interest & Foreign Policy",
+      "totalQuestions": 50,
+      "fileSizeBytes": 262144,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/ir-ch-2.db",
+      "order": 2
+    }
+  ]
+}
