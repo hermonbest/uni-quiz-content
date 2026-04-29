@@ -42,5 +42,14 @@
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-ch1.db",
       "order": 1
     }
+    {
+      "id": "history-ch2",
+      "subjectId": "history",
+      "title": "Chapter 2: The Nature of History",
+      "totalQuestions": 100,
+      "fileSizeBytes": 26571,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-ch2.db",
+      "order": 1
+    }
   ]
 }
