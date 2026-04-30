@@ -40,13 +40,247 @@
   ],
   "chapters": [
     {
+      "id": "anthropology-chapter-5",
+      "subjectId": "anthropology",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter-5.db",
+      "order": 1
+    },
+    {
+      "id": "anthropology-chapter1",
+      "subjectId": "anthropology",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 53248,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter1.db",
+      "order": 2
+    },
+    {
+      "id": "anthropology-chapter2",
+      "subjectId": "anthropology",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 53248,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter2.db",
+      "order": 3
+    },
+    {
+      "id": "anthropology-chapter3",
+      "subjectId": "anthropology",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter3.db",
+      "order": 4
+    },
+    {
+      "id": "anthropology-chapter4",
+      "subjectId": "anthropology",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter4.db",
+      "order": 5
+    },
+    {
+      "id": "anthropology-chapter6",
+      "subjectId": "anthropology",
+      "title": "Chapter 6",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter6.db",
+      "order": 6
+    },
+    {
+      "id": "anthropology-chapter7",
+      "subjectId": "anthropology",
+      "title": "Chapter 7",
+      "totalQuestions": 100,
+      "fileSizeBytes": 61440,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter7.db",
+      "order": 7
+    },
+    {
+      "id": "emerging-tech-chapter1",
+      "subjectId": "emerging-tech",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/emerging-tech-chapter1.db",
+      "order": 8
+    },
+    {
+      "id": "emerging-tech-chapter2",
+      "subjectId": "emerging-tech",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 53248,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/emerging-tech-chapter2.db",
+      "order": 9
+    },
+    {
+      "id": "emerging-tech-chapter3",
+      "subjectId": "emerging-tech",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 53248,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/emerging-tech-chapter3.db",
+      "order": 10
+    },
+    {
+      "id": "emerging-tech-chapter4",
+      "subjectId": "emerging-tech",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/emerging-tech-chapter4.db",
+      "order": 11
+    },
+    {
+      "id": "emerging-tech-chapter5",
+      "subjectId": "emerging-tech",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/emerging-tech-chapter5.db",
+      "order": 12
+    },
+    {
+      "id": "emerging-tech-chapter6",
+      "subjectId": "emerging-tech",
+      "title": "Chapter 6",
+      "totalQuestions": 100,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/emerging-tech-chapter6.db",
+      "order": 13
+    },
+    {
+      "id": "emerging-tech-chapter7",
+      "subjectId": "emerging-tech",
+      "title": "Chapter 7",
+      "totalQuestions": 100,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/emerging-tech-chapter7.db",
+      "order": 14
+    },
+    {
+      "id": "enterprenurship-chapter1",
+      "subjectId": "enterprenurship",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 77824,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/enterprenurship-chapter1.db",
+      "order": 15
+    },
+    {
+      "id": "enterprenurship-chapter2",
+      "subjectId": "enterprenurship",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 73728,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/enterprenurship-chapter2.db",
+      "order": 16
+    },
+    {
+      "id": "enterprenurship-chapter3",
+      "subjectId": "enterprenurship",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/enterprenurship-chapter3.db",
+      "order": 17
+    },
+    {
+      "id": "enterprenurship-chapter4",
+      "subjectId": "enterprenurship",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 73728,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/enterprenurship-chapter4.db",
+      "order": 18
+    },
+    {
+      "id": "enterprenurship-chapter5",
+      "subjectId": "enterprenurship",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 65536,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/enterprenurship-chapter5.db",
+      "order": 19
+    },
+    {
+      "id": "enterprenurship-chapter6",
+      "subjectId": "enterprenurship",
+      "title": "Chapter 6",
+      "totalQuestions": 100,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/enterprenurship-chapter6.db",
+      "order": 20
+    },
+    {
+      "id": "enterprenurship-chapter7",
+      "subjectId": "enterprenurship",
+      "title": "Chapter 7",
+      "totalQuestions": 100,
+      "fileSizeBytes": 73728,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/enterprenurship-chapter7.db",
+      "order": 21
+    },
+    {
+      "id": "global-trend-chapter1",
+      "subjectId": "global-trend",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/global-trend-chapter1.db",
+      "order": 22
+    },
+    {
+      "id": "global-trend-chapter2",
+      "subjectId": "global-trend",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/global-trend-chapter2.db",
+      "order": 23
+    },
+    {
+      "id": "global-trend-chapter3",
+      "subjectId": "global-trend",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/global-trend-chapter3.db",
+      "order": 24
+    },
+    {
+      "id": "global-trend-chapter4",
+      "subjectId": "global-trend",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 73728,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/global-trend-chapter4.db",
+      "order": 25
+    },
+    {
+      "id": "global-trend-chapter5",
+      "subjectId": "global-trend",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 73728,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/global-trend-chapter5.db",
+      "order": 26
+    },
+    {
       "id": "history-chapter1",
       "subjectId": "history",
       "title": "Chapter 1",
       "totalQuestions": 100,
       "fileSizeBytes": 57344,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter1.db",
-      "order": 1
+      "order": 27
     },
     {
       "id": "history-chapter2",
@@ -55,7 +289,7 @@
       "totalQuestions": 100,
       "fileSizeBytes": 53248,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter2.db",
-      "order": 2
+      "order": 28
     },
     {
       "id": "history-chapter3",
@@ -64,7 +298,7 @@
       "totalQuestions": 100,
       "fileSizeBytes": 53248,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter3.db",
-      "order": 3
+      "order": 29
     },
     {
       "id": "history-chapter4",
@@ -73,7 +307,7 @@
       "totalQuestions": 84,
       "fileSizeBytes": 57344,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter4.db",
-      "order": 4
+      "order": 30
     },
     {
       "id": "history-chapter5",
@@ -82,7 +316,7 @@
       "totalQuestions": 100,
       "fileSizeBytes": 57344,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter5.db",
-      "order": 5
+      "order": 31
     },
     {
       "id": "history-chapter6",
@@ -91,7 +325,7 @@
       "totalQuestions": 100,
       "fileSizeBytes": 57344,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter6.db",
-      "order": 6
+      "order": 32
     },
     {
       "id": "history-chapter7",
@@ -100,25 +334,52 @@
       "totalQuestions": 100,
       "fileSizeBytes": 61440,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter7.db",
-      "order": 7
+      "order": 33
     },
     {
-      "id": "ir-ch-1",
-      "subjectId": "international-relations",
-      "title": "Chapter 1: Introduction to IR",
+      "id": "moral-citizenship-chapter1",
+      "subjectId": "moral-citizenship",
+      "title": "Chapter 1",
       "totalQuestions": 100,
-      "fileSizeBytes": 524288,
-      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/ir-ch-1.db",
-      "order": 1
+      "fileSizeBytes": 77824,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-citizenship-chapter1.db",
+      "order": 34
     },
     {
-      "id": "ir-ch-2",
-      "subjectId": "international-relations",
-      "title": "Chapter 2: National Interest & Foreign Policy",
-      "totalQuestions": 50,
-      "fileSizeBytes": 262144,
-      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/ir-ch-2.db",
-      "order": 2
+      "id": "moral-citizenship-chapter2",
+      "subjectId": "moral-citizenship",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 73728,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-citizenship-chapter2.db",
+      "order": 35
+    },
+    {
+      "id": "moral-citizenship-chapter3",
+      "subjectId": "moral-citizenship",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 73728,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-citizenship-chapter3.db",
+      "order": 36
+    },
+    {
+      "id": "moral-citizenship-chapter4",
+      "subjectId": "moral-citizenship",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 77824,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-citizenship-chapter4.db",
+      "order": 37
+    },
+    {
+      "id": "moral-citizenship-chapter5",
+      "subjectId": "moral-citizenship",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-citizenship-chapter5.db",
+      "order": 38
     }
   ]
 }
