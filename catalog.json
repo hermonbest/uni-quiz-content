@@ -27,8 +27,8 @@
       "order": 5
     },
     {
-      "id": "global-trend",
-      "title": "Global Trend",
+      "id": "moral-citizenship",
+      "title": "moral-citizenship",
       "order": 6
     }
   ],
@@ -40,7 +40,7 @@
       "totalQuestions": 100,
       "fileSizeBytes": 57344,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter-5.db",
-      "order": 1,
+      "order": 5,
       "isPremium": true
     },
     {
@@ -50,7 +50,7 @@
       "totalQuestions": 100,
       "fileSizeBytes": 53248,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter1.db",
-      "order": 2,
+      "order": 1,
       "isPremium": false
     },
     {
@@ -60,7 +60,7 @@
       "totalQuestions": 100,
       "fileSizeBytes": 53248,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter2.db",
-      "order": 3,
+      "order": 2,
       "isPremium": true
     },
     {
@@ -70,7 +70,7 @@
       "totalQuestions": 100,
       "fileSizeBytes": 57344,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter3.db",
-      "order": 4,
+      "order": 3,
       "isPremium": true
     },
     {
@@ -80,7 +80,7 @@
       "totalQuestions": 100,
       "fileSizeBytes": 57344,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter4.db",
-      "order": 5,
+      "order": 4,
       "isPremium": true
     },
     {
