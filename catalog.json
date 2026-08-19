@@ -30,6 +30,21 @@
       "id": "moral-and-citizenship-education",
       "title": "Moral and Citizenship Education",
       "order": 6
+    },
+    {
+      "id": "logic-and-critical-thinking",
+      "title": "Logic and Critical Thinking",
+      "order": 7
+    },
+    {
+      "id": "mathematics-natural-sciences",
+      "title": "Mathematics and Natural Sciences",
+      "order": 8
+    },
+    {
+      "id": "geography",
+      "title": "Geography",
+      "order": 9
     }
   ],
   "chapters": [
@@ -329,56 +344,236 @@
       "fileSizeBytes": 61440,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter7.db",
       "order": 33
-    }, 
-  {
-    "id": "moral-and-citizenship-education-chapter-1-understanding-civics-and-ethics",
-    "subjectId": "moral-and-citizenship-education",
-    "title": "Chapter 1: Understanding Civics and Ethics",
+    },
+    {
+      "id": "moral-and-citizenship-education-chapter-1-understanding-civics-and-ethics",
+      "subjectId": "moral-and-citizenship-education",
+      "title": "Chapter 1: Understanding Civics and Ethics",
+      "totalQuestions": 100,
+      "fileSizeBytes": 118784,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-1-understanding-civics-and-ethics.db",
+      "version": "1.0.0",
+      "order": 1
+    },
+    {
+      "id": "moral-and-citizenship-education-chapter-2-approaches-to-ethics",
+      "subjectId": "moral-and-citizenship-education",
+      "title": "Chapter 2: Approaches to Ethics",
+      "totalQuestions": 100,
+      "fileSizeBytes": 102400,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-2-approaches-to-ethics.db",
+      "version": "1.0.0",
+      "order": 2
+    },
+    {
+      "id": "moral-and-citizenship-education-chapter-3-ethical-decision-making-and-moral-judgments",
+      "subjectId": "moral-and-citizenship-education",
+      "title": "Chapter 3: Ethical Decision Making and Moral Judgments",
+      "totalQuestions": 100,
+      "fileSizeBytes": 110592,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-3-ethical-decision-making-and-moral-judgments.db",
+      "version": "1.0.0",
+      "order": 3
+    },
+    {
+      "id": "moral-and-citizenship-education-chapter-4-state-government-and-citizenship",
+      "subjectId": "moral-and-citizenship-education",
+      "title": "Chapter 4: State, Government and Citizenship",
+      "totalQuestions": 100,
+      "fileSizeBytes": 110592,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-4-state-government-and-citizenship.db",
+      "version": "1.0.0",
+      "order": 4
+    },
+    {
+      "id": "moral-and-citizenship-education-chapter-5-constitution-democracy-and-human-rights",
+      "subjectId": "moral-and-citizenship-education",
+      "title": "Chapter 5: Constitution, Democracy and Human Rights",
+      "totalQuestions": 100,
+      "fileSizeBytes": 106496,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-5-constitution-democracy-and-human-rights.db",
+      "version": "1.0.0",
+      "order": 5
+    },
+   {
+    "id": "logic-and-critical-thinking-chapter-1",
+    "subjectId": "logic-and-critical-thinking",
+    "title": "Chapter 1",
     "totalQuestions": 100,
-    "fileSizeBytes": 118784,
-    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-1-understanding-civics-and-ethics.db",
+    "fileSizeBytes": 102400,
+    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/logic-and-critical-thinking-chapter-1.db",
     "version": "1.0.0",
     "order": 1
   },
   {
-    "id": "moral-and-citizenship-education-chapter-2-approaches-to-ethics",
-    "subjectId": "moral-and-citizenship-education",
-    "title": "Chapter 2: Approaches to Ethics",
+    "id": "logic-and-critical-thinking-chapter-2",
+    "subjectId": "logic-and-critical-thinking",
+    "title": "Chapter 2",
     "totalQuestions": 100,
-    "fileSizeBytes": 102400,
-    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-2-approaches-to-ethics.db",
+    "fileSizeBytes": 81920,
+    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/logic-and-critical-thinking-chapter-2.db",
     "version": "1.0.0",
     "order": 2
   },
   {
-    "id": "moral-and-citizenship-education-chapter-3-ethical-decision-making-and-moral-judgments",
-    "subjectId": "moral-and-citizenship-education",
-    "title": "Chapter 3: Ethical Decision Making and Moral Judgments",
+    "id": "logic-and-critical-thinking-chapter-3",
+    "subjectId": "logic-and-critical-thinking",
+    "title": "Chapter 3",
     "totalQuestions": 100,
-    "fileSizeBytes": 110592,
-    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-3-ethical-decision-making-and-moral-judgments.db",
+    "fileSizeBytes": 86016,
+    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/logic-and-critical-thinking-chapter-3.db",
     "version": "1.0.0",
     "order": 3
   },
   {
-    "id": "moral-and-citizenship-education-chapter-4-state-government-and-citizenship",
-    "subjectId": "moral-and-citizenship-education",
-    "title": "Chapter 4: State, Government and Citizenship",
+    "id": "logic-and-critical-thinking-chapter-4",
+    "subjectId": "logic-and-critical-thinking",
+    "title": "Chapter 4",
     "totalQuestions": 100,
-    "fileSizeBytes": 110592,
-    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-4-state-government-and-citizenship.db",
+    "fileSizeBytes": 86016,
+    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/logic-and-critical-thinking-chapter-4.db",
     "version": "1.0.0",
     "order": 4
   },
   {
-    "id": "moral-and-citizenship-education-chapter-5-constitution-democracy-and-human-rights",
-    "subjectId": "moral-and-citizenship-education",
-    "title": "Chapter 5: Constitution, Democracy and Human Rights",
+    "id": "logic-and-critical-thinking-chapter-5",
+    "subjectId": "logic-and-critical-thinking",
+    "title": "Chapter 5",
     "totalQuestions": 100,
-    "fileSizeBytes": 106496,
-    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-5-constitution-democracy-and-human-rights.db",
+    "fileSizeBytes": 90112,
+    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/logic-and-critical-thinking-chapter-5.db",
     "version": "1.0.0",
     "order": 5
-  }
+  },
+  {
+    "id": "logic-and-critical-thinking-chapter-6",
+    "subjectId": "logic-and-critical-thinking",
+    "title": "Chapter 6",
+    "totalQuestions": 100,
+    "fileSizeBytes": 90112,
+    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/logic-and-critical-thinking-chapter-6.db",
+    "version": "1.0.0",
+    "order": 6
+  },
+    {
+      "id": "mathematics-natural-sciences-chapter-1",
+      "subjectId": "mathematics-natural-sciences",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 77824,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/mathematics-natural-sciences-chapter-1.db",
+      "version": "1.0.0",
+      "order": 1
+    },
+    {
+      "id": "mathematics-natural-sciences-chapter-2",
+      "subjectId": "mathematics-natural-sciences",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 77824,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/mathematics-natural-sciences-chapter-2.db",
+      "version": "1.0.0",
+      "order": 2
+    },
+    {
+      "id": "mathematics-natural-sciences-chapter-3",
+      "subjectId": "mathematics-natural-sciences",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 77824,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/mathematics-natural-sciences-chapter-3.db",
+      "version": "1.0.0",
+      "order": 3
+    },
+    {
+      "id": "mathematics-natural-sciences-chapter-4-analytic-geometry",
+      "subjectId": "mathematics-natural-sciences",
+      "title": "Chapter 4: Analytic Geometry",
+      "totalQuestions": 100,
+      "fileSizeBytes": 90112,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/mathematics-natural-sciences-chapter-4-analytic-geometry.db",
+      "version": "1.0.0",
+      "order": 4
+    },
+    {
+      "id": "geography-chapter-1",
+      "subjectId": "geography",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 102400,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-1.db",
+      "version": "1.0.0",
+      "order": 1
+    },
+    {
+      "id": "geography-chapter-2",
+      "subjectId": "geography",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 81920,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-2.db",
+      "version": "1.0.0",
+      "order": 2
+    },
+    {
+      "id": "geography-chapter-3",
+      "subjectId": "geography",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 86016,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-3.db",
+      "version": "1.0.0",
+      "order": 3
+    },
+    {
+      "id": "geography-chapter-4",
+      "subjectId": "geography",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 86016,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-4.db",
+      "version": "1.0.0",
+      "order": 4
+    },
+    {
+      "id": "geography-chapter-5",
+      "subjectId": "geography",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 90112,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-5.db",
+      "version": "1.0.0",
+      "order": 5
+    },
+    {
+      "id": "geography-chapter-6",
+      "subjectId": "geography",
+      "title": "Chapter 6",
+      "totalQuestions": 100,
+      "fileSizeBytes": 90112,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-6.db",
+      "version": "1.0.0",
+      "order": 6
+    },
+    {
+      "id": "geography-chapter-7",
+      "subjectId": "geography",
+      "title": "Chapter 7",
+      "totalQuestions": 100,
+      "fileSizeBytes": 86016,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-7.db",
+      "version": "1.0.0",
+      "order": 7
+    },
+    {
+      "id": "geography-chapter-8",
+      "subjectId": "geography",
+      "title": "Chapter 8",
+      "totalQuestions": 100,
+      "fileSizeBytes": 94208,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-8.db",
+      "version": "1.0.0",
+      "order": 8
+    }
   ]
 }
