@@ -1,52 +1,789 @@
-[
-  {
-    "id": "communicative-english-language-skills-ii-unit-1",
-    "subjectId": "communicative-english-language-skills-ii",
-    "title": "Unit 1",
-    "totalQuestions": 74,
-    "fileSizeBytes": 73728,
-    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/communicative-english-language-skills-ii-unit-1.db",
-    "version": "1.0.0",
-    "order": 1
-  },
-  {
-    "id": "communicative-english-language-skills-ii-unit-2",
-    "subjectId": "communicative-english-language-skills-ii",
-    "title": "Unit 2",
-    "totalQuestions": 84,
-    "fileSizeBytes": 69632,
-    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/communicative-english-language-skills-ii-unit-2.db",
-    "version": "1.0.0",
-    "order": 2
-  },
-  {
-    "id": "communicative-english-language-skills-ii-unit-3",
-    "subjectId": "communicative-english-language-skills-ii",
-    "title": "Unit 3",
-    "totalQuestions": 93,
-    "fileSizeBytes": 73728,
-    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/communicative-english-language-skills-ii-unit-3.db",
-    "version": "1.0.0",
-    "order": 3
-  },
-  {
-    "id": "communicative-english-language-skills-ii-unit-4",
-    "subjectId": "communicative-english-language-skills-ii",
-    "title": "Unit 4",
-    "totalQuestions": 100,
-    "fileSizeBytes": 102400,
-    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/communicative-english-language-skills-ii-unit-4.db",
-    "version": "1.0.0",
-    "order": 4
-  },
-  {
-    "id": "communicative-english-language-skills-ii-unit-5",
-    "subjectId": "communicative-english-language-skills-ii",
-    "title": "Unit 5",
-    "totalQuestions": 86,
-    "fileSizeBytes": 77824,
-    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/communicative-english-language-skills-ii-unit-5.db",
-    "version": "1.0.0",
-    "order": 5
-  }
-]
+{
+  "subjects": [
+    {
+      "id": "global-trend",
+      "title": "Global Trend",
+      "description": "Study of global politics and international affairs",
+      "order": 1
+    },
+    {
+      "id": "history",
+      "title": "History",
+      "order": 2
+    },
+    {
+      "id": "enterprenurship",
+      "title": "Enterprenurship",
+      "order": 3
+    },
+    {
+      "id": "emerging-tech",
+      "title": "Emerging Tech",
+      "order": 4
+    },
+    {
+      "id": "anthropology",
+      "title": "Anthropology",
+      "order": 5
+    },
+    {
+      "id": "moral-and-citizenship-education",
+      "title": "Moral and Citizenship Education",
+      "order": 6
+    },
+    {
+      "id": "logic-and-critical-thinking",
+      "title": "Logic and Critical Thinking",
+      "order": 7
+    },
+    {
+      "id": "mathematics-natural-sciences",
+      "title": "Mathematics and Natural Sciences",
+      "order": 8
+    },
+    {
+      "id": "geography",
+      "title": "Geography",
+      "order": 9
+    },
+    {
+      "id": "introduction-to-economics",
+      "title": "Introduction to Economics",
+      "order": 10
+    },
+    {
+      "id": "mathematics-for-social-sciences",
+      "title": "Mathematics for Social Sciences",
+      "order": 11
+    },
+    {
+      "id": "communicative-english-language-skills-i",
+      "title": "Communicative English Language Skills I",
+      "order": 12
+    },
+    {
+      "id": "communicative-english-language-skills-ii",
+      "title": "Communicative English Language Skills II",
+      "order": 13
+    }
+  ],
+  "chapters": [
+    {
+      "id": "anthropology-chapter-5",
+      "subjectId": "anthropology",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter-5.db",
+      "order": 1
+    },
+    {
+      "id": "anthropology-chapter1",
+      "subjectId": "anthropology",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 53248,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter1.db",
+      "order": 2
+    },
+    {
+      "id": "anthropology-chapter2",
+      "subjectId": "anthropology",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 53248,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter2.db",
+      "order": 3
+    },
+    {
+      "id": "anthropology-chapter3",
+      "subjectId": "anthropology",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter3.db",
+      "order": 4
+    },
+    {
+      "id": "anthropology-chapter4",
+      "subjectId": "anthropology",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter4.db",
+      "order": 5
+    },
+    {
+      "id": "anthropology-chapter6",
+      "subjectId": "anthropology",
+      "title": "Chapter 6",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter6.db",
+      "order": 6
+    },
+    {
+      "id": "anthropology-chapter7",
+      "subjectId": "anthropology",
+      "title": "Chapter 7",
+      "totalQuestions": 100,
+      "fileSizeBytes": 61440,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/anthropology-chapter7.db",
+      "order": 7
+    },
+    {
+      "id": "emerging-tech-chapter1",
+      "subjectId": "emerging-tech",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/emerging-tech-chapter1.db",
+      "order": 8
+    },
+    {
+      "id": "emerging-tech-chapter2",
+      "subjectId": "emerging-tech",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 53248,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/emerging-tech-chapter2.db",
+      "order": 9
+    },
+    {
+      "id": "emerging-tech-chapter3",
+      "subjectId": "emerging-tech",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 53248,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/emerging-tech-chapter3.db",
+      "order": 10
+    },
+    {
+      "id": "emerging-tech-chapter4",
+      "subjectId": "emerging-tech",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/emerging-tech-chapter4.db",
+      "order": 11
+    },
+    {
+      "id": "emerging-tech-chapter5",
+      "subjectId": "emerging-tech",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/emerging-tech-chapter5.db",
+      "order": 12
+    },
+    {
+      "id": "emerging-tech-chapter6",
+      "subjectId": "emerging-tech",
+      "title": "Chapter 6",
+      "totalQuestions": 100,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/emerging-tech-chapter6.db",
+      "order": 13
+    },
+    {
+      "id": "emerging-tech-chapter7",
+      "subjectId": "emerging-tech",
+      "title": "Chapter 7",
+      "totalQuestions": 100,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/emerging-tech-chapter7.db",
+      "order": 14
+    },
+    {
+      "id": "enterprenurship-chapter1",
+      "subjectId": "enterprenurship",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 77824,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/enterprenurship-chapter1.db",
+      "order": 15
+    },
+    {
+      "id": "enterprenurship-chapter2",
+      "subjectId": "enterprenurship",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 73728,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/enterprenurship-chapter2.db",
+      "order": 16
+    },
+    {
+      "id": "enterprenurship-chapter3",
+      "subjectId": "enterprenurship",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/enterprenurship-chapter3.db",
+      "order": 17
+    },
+    {
+      "id": "enterprenurship-chapter4",
+      "subjectId": "enterprenurship",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 73728,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/enterprenurship-chapter4.db",
+      "order": 18
+    },
+    {
+      "id": "enterprenurship-chapter5",
+      "subjectId": "enterprenurship",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 65536,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/enterprenurship-chapter5.db",
+      "order": 19
+    },
+    {
+      "id": "enterprenurship-chapter6",
+      "subjectId": "enterprenurship",
+      "title": "Chapter 6",
+      "totalQuestions": 100,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/enterprenurship-chapter6.db",
+      "order": 20
+    },
+    {
+      "id": "enterprenurship-chapter7",
+      "subjectId": "enterprenurship",
+      "title": "Chapter 7",
+      "totalQuestions": 100,
+      "fileSizeBytes": 73728,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/enterprenurship-chapter7.db",
+      "order": 21
+    },
+    {
+      "id": "global-trend-chapter1",
+      "subjectId": "global-trend",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/global-trend-chapter1.db",
+      "order": 22
+    },
+    {
+      "id": "global-trend-chapter2",
+      "subjectId": "global-trend",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 81920,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/global-trend-chapter2.db",
+      "order": 23
+    },
+    {
+      "id": "global-trend-chapter3",
+      "subjectId": "global-trend",
+      "title": "Chapter 3",
+      "totalQuestions": 99,
+      "fileSizeBytes": 98304,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/global-trend-chapter3.db",
+      "order": 24
+    },
+    {
+      "id": "global-trend-chapter4",
+      "subjectId": "global-trend",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 73728,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/global-trend-chapter4.db",
+      "order": 25
+    },
+    {
+      "id": "global-trend-chapter5",
+      "subjectId": "global-trend",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 73728,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/global-trend-chapter5.db",
+      "order": 26
+    },
+    {
+      "id": "history-chapter1",
+      "subjectId": "history",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter1.db",
+      "order": 27
+    },
+    {
+      "id": "history-chapter2",
+      "subjectId": "history",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 53248,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter2.db",
+      "order": 28
+    },
+    {
+      "id": "history-chapter3",
+      "subjectId": "history",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 53248,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter3.db",
+      "order": 29
+    },
+    {
+      "id": "history-chapter4",
+      "subjectId": "history",
+      "title": "Chapter 4",
+      "totalQuestions": 84,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter4.db",
+      "order": 30
+    },
+    {
+      "id": "history-chapter5",
+      "subjectId": "history",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter5.db",
+      "order": 31
+    },
+    {
+      "id": "history-chapter6",
+      "subjectId": "history",
+      "title": "Chapter 6",
+      "totalQuestions": 100,
+      "fileSizeBytes": 57344,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter6.db",
+      "order": 32
+    },
+    {
+      "id": "history-chapter7",
+      "subjectId": "history",
+      "title": "Chapter 7",
+      "totalQuestions": 100,
+      "fileSizeBytes": 61440,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter7.db",
+      "order": 33
+    },
+    {
+      "id": "moral-and-citizenship-education-chapter-1-understanding-civics-and-ethics",
+      "subjectId": "moral-and-citizenship-education",
+      "title": "Chapter 1: Understanding Civics and Ethics",
+      "totalQuestions": 100,
+      "fileSizeBytes": 118784,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-1-understanding-civics-and-ethics.db",
+      "version": "1.0.0",
+      "order": 1
+    },
+    {
+      "id": "moral-and-citizenship-education-chapter-2-approaches-to-ethics",
+      "subjectId": "moral-and-citizenship-education",
+      "title": "Chapter 2: Approaches to Ethics",
+      "totalQuestions": 100,
+      "fileSizeBytes": 102400,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-2-approaches-to-ethics.db",
+      "version": "1.0.0",
+      "order": 2
+    },
+    {
+      "id": "moral-and-citizenship-education-chapter-3-ethical-decision-making-and-moral-judgments",
+      "subjectId": "moral-and-citizenship-education",
+      "title": "Chapter 3: Ethical Decision Making and Moral Judgments",
+      "totalQuestions": 100,
+      "fileSizeBytes": 110592,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-3-ethical-decision-making-and-moral-judgments.db",
+      "version": "1.0.0",
+      "order": 3
+    },
+    {
+      "id": "moral-and-citizenship-education-chapter-4-state-government-and-citizenship",
+      "subjectId": "moral-and-citizenship-education",
+      "title": "Chapter 4: State, Government and Citizenship",
+      "totalQuestions": 100,
+      "fileSizeBytes": 110592,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-4-state-government-and-citizenship.db",
+      "version": "1.0.0",
+      "order": 4
+    },
+    {
+      "id": "moral-and-citizenship-education-chapter-5-constitution-democracy-and-human-rights",
+      "subjectId": "moral-and-citizenship-education",
+      "title": "Chapter 5: Constitution, Democracy and Human Rights",
+      "totalQuestions": 100,
+      "fileSizeBytes": 106496,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-5-constitution-democracy-and-human-rights.db",
+      "version": "1.0.0",
+      "order": 5
+    },
+    {
+      "id": "logic-and-critical-thinking-chapter-1",
+      "subjectId": "logic-and-critical-thinking",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 102400,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/logic-and-critical-thinking-chapter-1.db",
+      "version": "1.0.0",
+      "order": 1
+    },
+    {
+      "id": "logic-and-critical-thinking-chapter-2",
+      "subjectId": "logic-and-critical-thinking",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 81920,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/logic-and-critical-thinking-chapter-2.db",
+      "version": "1.0.0",
+      "order": 2
+    },
+    {
+      "id": "logic-and-critical-thinking-chapter-3",
+      "subjectId": "logic-and-critical-thinking",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 86016,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/logic-and-critical-thinking-chapter-3.db",
+      "version": "1.0.0",
+      "order": 3
+    },
+    {
+      "id": "logic-and-critical-thinking-chapter-4",
+      "subjectId": "logic-and-critical-thinking",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 86016,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/logic-and-critical-thinking-chapter-4.db",
+      "version": "1.0.0",
+      "order": 4
+    },
+    {
+      "id": "logic-and-critical-thinking-chapter-5",
+      "subjectId": "logic-and-critical-thinking",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 90112,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/logic-and-critical-thinking-chapter-5.db",
+      "version": "1.0.0",
+      "order": 5
+    },
+    {
+      "id": "logic-and-critical-thinking-chapter-6",
+      "subjectId": "logic-and-critical-thinking",
+      "title": "Chapter 6",
+      "totalQuestions": 100,
+      "fileSizeBytes": 90112,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/logic-and-critical-thinking-chapter-6.db",
+      "version": "1.0.0",
+      "order": 6
+    },
+    {
+      "id": "mathematics-natural-sciences-chapter-1",
+      "subjectId": "mathematics-natural-sciences",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 77824,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/mathematics-natural-sciences-chapter-1.db",
+      "version": "1.0.0",
+      "order": 1
+    },
+    {
+      "id": "mathematics-natural-sciences-chapter-2",
+      "subjectId": "mathematics-natural-sciences",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 77824,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/mathematics-natural-sciences-chapter-2.db",
+      "version": "1.0.0",
+      "order": 2
+    },
+    {
+      "id": "mathematics-natural-sciences-chapter-3",
+      "subjectId": "mathematics-natural-sciences",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 77824,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/mathematics-natural-sciences-chapter-3.db",
+      "version": "1.0.0",
+      "order": 3
+    },
+    {
+      "id": "mathematics-natural-sciences-chapter-4-analytic-geometry",
+      "subjectId": "mathematics-natural-sciences",
+      "title": "Chapter 4: Analytic Geometry",
+      "totalQuestions": 100,
+      "fileSizeBytes": 90112,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/mathematics-natural-sciences-chapter-4-analytic-geometry.db",
+      "version": "1.0.0",
+      "order": 4
+    },
+    {
+      "id": "geography-chapter-1",
+      "subjectId": "geography",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 102400,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-1.db",
+      "version": "1.0.0",
+      "order": 1
+    },
+    {
+      "id": "geography-chapter-2",
+      "subjectId": "geography",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 81920,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-2.db",
+      "version": "1.0.0",
+      "order": 2
+    },
+    {
+      "id": "geography-chapter-3",
+      "subjectId": "geography",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 86016,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-3.db",
+      "version": "1.0.0",
+      "order": 3
+    },
+    {
+      "id": "geography-chapter-4",
+      "subjectId": "geography",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 86016,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-4.db",
+      "version": "1.0.0",
+      "order": 4
+    },
+    {
+      "id": "geography-chapter-5",
+      "subjectId": "geography",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 90112,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-5.db",
+      "version": "1.0.0",
+      "order": 5
+    },
+    {
+      "id": "geography-chapter-6",
+      "subjectId": "geography",
+      "title": "Chapter 6",
+      "totalQuestions": 100,
+      "fileSizeBytes": 90112,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-6.db",
+      "version": "1.0.0",
+      "order": 6
+    },
+    {
+      "id": "geography-chapter-7",
+      "subjectId": "geography",
+      "title": "Chapter 7",
+      "totalQuestions": 100,
+      "fileSizeBytes": 86016,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-7.db",
+      "version": "1.0.0",
+      "order": 7
+    },
+    {
+      "id": "geography-chapter-8",
+      "subjectId": "geography",
+      "title": "Chapter 8",
+      "totalQuestions": 100,
+      "fileSizeBytes": 94208,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/geography-chapter-8.db",
+      "version": "1.0.0",
+      "order": 8
+    },
+    {
+      "id": "introduction-to-economics-chapter-1",
+      "subjectId": "introduction-to-economics",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 81920,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/introduction-to-economics-chapter-1.db",
+      "version": "1.0.0",
+      "order": 1
+    },
+    {
+      "id": "introduction-to-economics-chapter-2",
+      "subjectId": "introduction-to-economics",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 81920,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/introduction-to-economics-chapter-2.db",
+      "version": "1.0.0",
+      "order": 2
+    },
+    {
+      "id": "introduction-to-economics-chapter-3",
+      "subjectId": "introduction-to-economics",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 94208,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/introduction-to-economics-chapter-3.db",
+      "version": "1.0.0",
+      "order": 3
+    },
+    {
+      "id": "introduction-to-economics-chapter-4",
+      "subjectId": "introduction-to-economics",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 81920,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/introduction-to-economics-chapter-4.db",
+      "version": "1.0.0",
+      "order": 4
+    },
+    {
+      "id": "introduction-to-economics-chapter-5",
+      "subjectId": "introduction-to-economics",
+      "title": "Chapter 5",
+      "totalQuestions": 100,
+      "fileSizeBytes": 90112,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/introduction-to-economics-chapter-5.db",
+      "version": "1.0.0",
+      "order": 5
+    },
+    {
+      "id": "introduction-to-economics-chapter-6",
+      "subjectId": "introduction-to-economics",
+      "title": "Chapter 6",
+      "totalQuestions": 100,
+      "fileSizeBytes": 90112,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/introduction-to-economics-chapter-6.db",
+      "version": "1.0.0",
+      "order": 6
+    },
+    {
+      "id": "mathematics-for-social-sciences-chapter-1",
+      "subjectId": "mathematics-for-social-sciences",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 77824,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/mathematics-for-social-sciences-chapter-1.db",
+      "version": "1.0.0",
+      "order": 1
+    },
+    {
+      "id": "mathematics-for-social-sciences-chapter-2",
+      "subjectId": "mathematics-for-social-sciences",
+      "title": "Chapter 2",
+      "totalQuestions": 99,
+      "fileSizeBytes": 118784,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/mathematics-for-social-sciences-chapter-2.db",
+      "version": "1.0.0",
+      "order": 2
+    },
+    {
+      "id": "mathematics-for-social-sciences-chapter-3",
+      "subjectId": "mathematics-for-social-sciences",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 81920,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/mathematics-for-social-sciences-chapter-3.db",
+      "version": "1.0.0",
+      "order": 3
+    },
+    {
+      "id": "mathematics-for-social-sciences-chapter-4",
+      "subjectId": "mathematics-for-social-sciences",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 77824,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/mathematics-for-social-sciences-chapter-4.db",
+      "version": "1.0.0",
+      "order": 4
+    },
+    {
+      "id": "communicative-english-language-skills-i-chapter-1",
+      "subjectId": "communicative-english-language-skills-i",
+      "title": "Chapter 1",
+      "totalQuestions": 100,
+      "fileSizeBytes": 81920,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/communicative-english-language-skills-i-chapter-1.db",
+      "version": "1.0.0",
+      "order": 1
+    },
+    {
+      "id": "communicative-english-language-skills-i-chapter-2",
+      "subjectId": "communicative-english-language-skills-i",
+      "title": "Chapter 2",
+      "totalQuestions": 100,
+      "fileSizeBytes": 77824,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/communicative-english-language-skills-i-chapter-2.db",
+      "version": "1.0.0",
+      "order": 2
+    },
+    {
+      "id": "communicative-english-language-skills-i-chapter-3",
+      "subjectId": "communicative-english-language-skills-i",
+      "title": "Chapter 3",
+      "totalQuestions": 100,
+      "fileSizeBytes": 90112,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/communicative-english-language-skills-i-chapter-3.db",
+      "version": "1.0.0",
+      "order": 3
+    },
+    {
+      "id": "communicative-english-language-skills-i-chapter-4",
+      "subjectId": "communicative-english-language-skills-i",
+      "title": "Chapter 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 81920,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/communicative-english-language-skills-i-chapter-4.db",
+      "version": "1.0.0",
+      "order": 4
+    },
+    {
+      "id": "communicative-english-language-skills-ii-unit-1",
+      "subjectId": "communicative-english-language-skills-ii",
+      "title": "Unit 1",
+      "totalQuestions": 74,
+      "fileSizeBytes": 73728,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/communicative-english-language-skills-ii-unit-1.db",
+      "version": "1.0.0",
+      "order": 1
+    },
+    {
+      "id": "communicative-english-language-skills-ii-unit-2",
+      "subjectId": "communicative-english-language-skills-ii",
+      "title": "Unit 2",
+      "totalQuestions": 84,
+      "fileSizeBytes": 69632,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/communicative-english-language-skills-ii-unit-2.db",
+      "version": "1.0.0",
+      "order": 2
+    },
+    {
+      "id": "communicative-english-language-skills-ii-unit-3",
+      "subjectId": "communicative-english-language-skills-ii",
+      "title": "Unit 3",
+      "totalQuestions": 93,
+      "fileSizeBytes": 73728,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/communicative-english-language-skills-ii-unit-3.db",
+      "version": "1.0.0",
+      "order": 3
+    },
+    {
+      "id": "communicative-english-language-skills-ii-unit-4",
+      "subjectId": "communicative-english-language-skills-ii",
+      "title": "Unit 4",
+      "totalQuestions": 100,
+      "fileSizeBytes": 102400,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/communicative-english-language-skills-ii-unit-4.db",
+      "version": "1.0.0",
+      "order": 4
+    },
+    {
+      "id": "communicative-english-language-skills-ii-unit-5",
+      "subjectId": "communicative-english-language-skills-ii",
+      "title": "Unit 5",
+      "totalQuestions": 86,
+      "fileSizeBytes": 77824,
+      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/communicative-english-language-skills-ii-unit-5.db",
+      "version": "1.0.0",
+      "order": 5
+    }
+  ]
+}
