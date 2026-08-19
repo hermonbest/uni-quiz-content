@@ -27,8 +27,8 @@
       "order": 5
     },
     {
-      "id": "moral-citizenship",
-      "title": "Moral & Citizenship",
+      "id": "moral-and-citizenship-education",
+      "title": "Moral and Citizenship Education",
       "order": 6
     }
   ],
@@ -329,51 +329,55 @@
       "fileSizeBytes": 61440,
       "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/history-chapter7.db",
       "order": 33
-    },
-    {
-      "id": "moral-citizenship-chapter1",
-      "subjectId": "moral-citizenship",
-      "title": "Chapter 1",
-      "totalQuestions": 100,
-      "fileSizeBytes": 77824,
-      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-citizenship-chapter1.db",
-      "order": 34
-    },
-    {
-      "id": "moral-citizenship-chapter2",
-      "subjectId": "moral-citizenship",
-      "title": "Chapter 2",
-      "totalQuestions": 100,
-      "fileSizeBytes": 73728,
-      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-citizenship-chapter2.db",
-      "order": 35
-    },
-    {
-      "id": "moral-citizenship-chapter3",
-      "subjectId": "moral-citizenship",
-      "title": "Chapter 3",
-      "totalQuestions": 100,
-      "fileSizeBytes": 73728,
-      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-citizenship-chapter3.db",
-      "order": 36
-    },
-    {
-      "id": "moral-citizenship-chapter4",
-      "subjectId": "moral-citizenship",
-      "title": "Chapter 4",
-      "totalQuestions": 100,
-      "fileSizeBytes": 77824,
-      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-citizenship-chapter4.db",
-      "order": 37
-    },
-    {
-      "id": "moral-citizenship-chapter5",
-      "subjectId": "moral-citizenship",
-      "title": "Chapter 5",
-      "totalQuestions": 100,
-      "fileSizeBytes": 69632,
-      "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-citizenship-chapter5.db",
-      "order": 38
-    }
-  ]
+    }, 
+  {
+    "id": "moral-and-citizenship-education-chapter-1-understanding-civics-and-ethics",
+    "subjectId": "moral-and-citizenship-education",
+    "title": "Chapter 1: Understanding Civics and Ethics",
+    "totalQuestions": 100,
+    "fileSizeBytes": 118784,
+    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-1-understanding-civics-and-ethics.db",
+    "version": "1.0.0",
+    "order": 1
+  },
+  {
+    "id": "moral-and-citizenship-education-chapter-2-approaches-to-ethics",
+    "subjectId": "moral-and-citizenship-education",
+    "title": "Chapter 2: Approaches to Ethics",
+    "totalQuestions": 100,
+    "fileSizeBytes": 102400,
+    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-2-approaches-to-ethics.db",
+    "version": "1.0.0",
+    "order": 2
+  },
+  {
+    "id": "moral-and-citizenship-education-chapter-3-ethical-decision-making-and-moral-judgments",
+    "subjectId": "moral-and-citizenship-education",
+    "title": "Chapter 3: Ethical Decision Making and Moral Judgments",
+    "totalQuestions": 100,
+    "fileSizeBytes": 110592,
+    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-3-ethical-decision-making-and-moral-judgments.db",
+    "version": "1.0.0",
+    "order": 3
+  },
+  {
+    "id": "moral-and-citizenship-education-chapter-4-state-government-and-citizenship",
+    "subjectId": "moral-and-citizenship-education",
+    "title": "Chapter 4: State, Government and Citizenship",
+    "totalQuestions": 100,
+    "fileSizeBytes": 110592,
+    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-4-state-government-and-citizenship.db",
+    "version": "1.0.0",
+    "order": 4
+  },
+  {
+    "id": "moral-and-citizenship-education-chapter-5-constitution-democracy-and-human-rights",
+    "subjectId": "moral-and-citizenship-education",
+    "title": "Chapter 5: Constitution, Democracy and Human Rights",
+    "totalQuestions": 100,
+    "fileSizeBytes": 106496,
+    "downloadUrl": "https://github.com/hermonbest/uni-quiz-content/releases/download/chapters/moral-and-citizenship-education-chapter-5-constitution-democracy-and-human-rights.db",
+    "version": "1.0.0",
+    "order": 5
+  }
 }
